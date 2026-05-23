@@ -119,14 +119,3 @@ Potential features to add:
 - Image export in multiple formats
 - Batch image processing
 
-## License
-
-This project is open source and available on GitHub.
-
-## Author
-
-[Madhukar-Palakaveeti](https://github.com/Madhukar-Palakaveeti)
-
-## Contributing
-
-Contributions are welcome! Feel free to submit issues and pull requests.
